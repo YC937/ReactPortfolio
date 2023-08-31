@@ -11,7 +11,7 @@ This is a protfolio site of Yanming Cai
 
 ## Installation 
 
-- Clone the repository and use "npm i" to install the required dependencies. 
+- Clone the repository and use `npm i` to install the required dependencies. 
 - Run the development server using `npm run dev`.
 - Open your browser and navigate to the local server URL.
 
