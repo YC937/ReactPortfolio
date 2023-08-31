@@ -1,0 +1,66 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  min-width: 100vw;
+  min-height: 100vh;
+  color-scheme: light dark;
+  color: rgb(255, 255, 255);
+  background-color: #2b8bab;
+}
+
+
+body {
+  margin: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.propic {
+  border-radius: 25%;
+   height: 800px;
+  border-style: 2px solid white;
+}
+
+.headerbg {
+  background-image: url('../assets/Header.jpeg');
+}
+
+.footer {
+  background-color: rgb(173, 230, 205);
+  text-decoration: none;
+}
+
+.footimg {
+  width: 200px;
+  height: 200px;
+}
+
+.contact {
+  height: 70vh;
+}
+
+.about {
+  border-bottom: 1px solid rgb(173, 230, 205);
+}
+
+.title {
+  font-family: 'Bitter', serif;
+}
+
+.abttext {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+.foottext {
+  font-family: 'Bitter', serif;
+}
+
+.navb {
+  background-color: rgb(218, 197, 64);
+  border-top-left-radius:30px;
+  border-bottom-left-radius:30px;  
+  border-top-right-radius:30px;
+  border-bottom-right-radius:30px; 
+}

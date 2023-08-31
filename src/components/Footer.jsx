@@ -1,7 +1,10 @@
-export default function Footer(){
+export default function Footer (){
     return (
-        <div>
-            <h3>Thank you for visiting!</h3>
+       <footer className="footer mt-2">
+        <div className="content has-text-centered has-text-white">
+            <h1 className="foottext mt-6">Welcome to my Page
+            </h1>
         </div>
+       </footer>
     )
-};
+}
