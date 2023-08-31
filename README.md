@@ -1,5 +1,10 @@
 # ReactPortfolio
 
+## Table of Contents
+- [Description](#description)
+- [Installation]( #installation)
+- [License](#license)
+
 ##  Description
 
 This is a protfolio site of Yanming Cai
@@ -7,8 +12,8 @@ This is a protfolio site of Yanming Cai
 ## Installation 
 
 Clone the repository and use "npm i" to install the required dependencies. 
-Run the development server using `npm run`.
-Open your browser and navigate to the provided local server URL.
+Run the development server using `npm run dev`.
+Open your browser and navigate to the local server URL.
 
 ##
 
